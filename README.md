@@ -3,8 +3,8 @@ This Playwright Typescript Automation repository has Playwright UI and API demo 
 # how to use this Playwright Typescript code repository
 1. You should have installed Nodejs on your PC. If you have not installed the Nodejs application, visit the website below to install. 
 https://nodejs.org/en/download
-2. in the terminal, type the command below to install all the dependencies. 
-** npm install **
+2. in the terminal, type the command below to install all the dependencies.
+<p>npm install </p>
 
 # cubecart demo url 
 https://www.cubecart.com/demo
@@ -33,7 +33,7 @@ check out the code and run the command below.
 - npx playwright test (run the test with a headless mode with 5 workers)
 - npx playwright test --headed --workers 1 (run the test with a browser mode with 1 worker)
 # execution result
-** you can see the test execution report by typing the command below in the terminal **
-> npx playwright show-report
+**you can see the test execution report by typing the command below in the terminal**
+<p> npx playwright show-report </p>
 
-Note: you should see 52 test cases
+<p>Note: you should see 52 test cases </p>
